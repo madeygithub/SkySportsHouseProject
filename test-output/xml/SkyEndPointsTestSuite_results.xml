@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SkyEndPointsApiTesting"
+           tests="8"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.560">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testGetEndPoint"
+                time="0.385"
+                classname="SkyEndPointsTestSuite">
+            </testcase>
+            <testcase
+                name="testDELETEEndPoint"
+                time="1.919"
+                classname="SkyEndPointsTestSuite">
+            </testcase>
+            <testcase
+                name="testPOSTEndPoint"
+                time="0.364"
+                classname="SkyEndPointsTestSuite">
+            </testcase>
+            <testcase
+                name="testPUTEndPoint"
+                time="0.392"
+                classname="SkyEndPointsTestSuite">
+            </testcase>
+            <testcase
+                name="testDELETEEndPoint"
+                time="0.371"
+                classname="SkyEndPointsTestSuite">
+            </testcase>
+            <testcase
+                name="testPOSTEndPoint"
+                time="0.368"
+                classname="SkyEndPointsTestSuite">
+            </testcase>
+            <testcase
+                name="testGetEndPoint"
+                time="0.409"
+                classname="SkyEndPointsTestSuite">
+            </testcase>
+            <testcase
+                name="testPUTEndPoint"
+                time="0.352"
+                classname="SkyEndPointsTestSuite">
+            </testcase>
+</testsuite>

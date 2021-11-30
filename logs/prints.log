@@ -1,0 +1,5 @@
+15:24:28.066 [main] INFO  java.lang.Class - The Response Body of EndPoint 2 is displayed.{"id":"2","createdAt":"2020-10-28T07:45:21.526Z","title":"title 2","sensitive":true,"topics":[],"image":{"url":"https://imgur.com","fileType":".jpg"},"priority":45}
+15:24:28.445 [main] ERROR java.lang.Class - The Statuscode of Endpoint1 POST Request is displayed. 415
+15:24:28.809 [main] ERROR java.lang.Class - The Statuscode of Endpoint2 POST Request is displayed. 415
+15:24:29.161 [main] ERROR java.lang.Class - The Statuscode of Endpoint1 PUT Request is displayed.400
+15:24:29.554 [main] ERROR java.lang.Class - The Statuscode of Endpoint2 PUT Request is displayed.404
