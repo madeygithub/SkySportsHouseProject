@@ -3,8 +3,8 @@ We have two API endpoints located here:
     ![img.png](img.png)  
 
 #Setup required:
-###Install JAVA (Version used is )
-###Download an IDE IntelliJ ( Version used is)
+###Install JAVA (Version used is Jdk-13.0.2)
+###Download an IDE IntelliJ 
 ###Setup and Create a Maven Project in IDE with name 'SkySportshouse'
 
 ###In POM.xml file add the plugins necessary 
@@ -33,7 +33,7 @@ Here I used two Endpoints as parameters.
 
 #Run the Tests
 
-Run the tests using testNG and the output is displayed in the console.
+Run the tests using testNG (right click on the testng.xml file and run with testNG) and the output is displayed in the console.
 logs and reports are collected.
 
 #Reports and Logs
@@ -42,6 +42,7 @@ SkySportshouse/logs
 ##Reports location:
 Testng reports in html
 SkySportshouse/test-output/html/index.html
+copy the index.html on the browser.
 
 
 
